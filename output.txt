@@ -1,0 +1,6 @@
+"C:\Program Files\Java\jdk-11.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.1\lib\idea_rt.jar=50365:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\MultiDim\out\production\MultiDim Main
+values element 3: 0
+grid element 2, element 4: 7
+values in element 1: 5
+
+Process finished with exit code 0
